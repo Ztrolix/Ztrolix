@@ -10,5 +10,8 @@
   <h1 align="center">Ztrolix</h1>
 </p>
 
-[Link]: 'https://github.com/Ztrolix/Ztrolix-Studios/'
-[<kbd> <br> View GitHub Homepage <br> </kbd>][Link]
+[Link]: 'https://github.com/Ztrolix/Ztrolix-Studios'
+
+<p align="center">
+  <kbd> <br> Visit Github Homepage <br> </kbd>
+</p>
