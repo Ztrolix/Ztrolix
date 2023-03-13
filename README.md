@@ -9,3 +9,5 @@
 <p align="center">
   <h1 align="center">Ztrolix</h1>
 </p>
+
+[<kbd> <br> View GitHub Homepage <br> </kbd>][KBD]
