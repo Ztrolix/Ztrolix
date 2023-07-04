@@ -22,3 +22,4 @@
 ### GitHub Apps
 
 - [E25](https://github.com/Ztrolix/E25)
+- [Project White-Pebble](https://github.com/Ztrolix/ProjectWhitePebble)
